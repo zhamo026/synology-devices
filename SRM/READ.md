@@ -1,12 +1,12 @@
 # Setup
 Upon the initial setup, you can locate the device under
-```bash
+
 [192.168.1.1](http://192.168.1.1:8000/webman/index.cgi)
 
 [10.0.4.1](http://10.0.4.1:8000/webman/index.cgi)
 
 [router.synology.com](http://router.synology.com:8000/webman/index.cgi)
-```
+
 Please ensure that the gateway isn't assigned the same IP address.
 
 During the first setup, the device offers two operation modes: wireless router or AP.
